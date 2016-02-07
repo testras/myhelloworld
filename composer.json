@@ -1,0 +1,17 @@
+{
+    "name": "airidas/sayhelloforworld",
+    "description": "my test package, dont use it",
+    "authors": [
+        {
+            "name": "Airidas Janavicius",
+            "email": "testras12345@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SayHelloForWorld\\": "src"
+        }
+    }
+}
